@@ -1,0 +1,23 @@
+/****************************
+Eloy Martin Reig - UO283728
+Descripcion de los estilos
+**************************/
+body{
+    background-color:white;
+    color:darkblue;
+}
+h1{
+    color:red;
+}
+h2{
+    color:blue;
+}
+h3{
+    color:green;
+}
+h4{
+    color:blueviolet
+}
+p{
+    color:black;
+}
